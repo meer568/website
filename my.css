@@ -1,0 +1,52 @@
+body{
+  background-color: rgb(218, 136, 13);
+}
+.section{
+    padding: 10px;
+    display: flex;
+    border: 3px solid;
+    margin: 10px;
+}
+.one{
+    background-color: rgb(196, 236, 17) ;
+    width: 33.3%;
+    border: 2px solid rgba(224, 37, 37, 0.767) ;
+}
+.two{
+    background-color:rgb(228, 228, 17) ;
+    width: 33.3%;
+    border: 2px solid  rgba(224, 37, 37, 0.767);
+}
+.three{
+    background-color:rgb(231, 231, 17) ;
+    width: 33.3%;
+    border: 2px solid  rgba(224, 37, 37, 0.767);
+}
+.footer2{
+    margin: px; 
+    padding: %;
+    margin-left: 9%;
+    margin-right: 9%;
+    width: 1220px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 350px;
+    text-align: center;
+    display: flex;
+}
+.s1{
+    margin: 10px;
+    padding: 10px;
+    margin-right: 10%;
+}
+.s2{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.s3{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 8%;
+}
